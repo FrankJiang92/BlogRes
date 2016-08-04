@@ -1,5 +1,5 @@
-----------------------
-Blog Resource Files.
-Create by Frank.
-2016/7/5
--------------------
+---
+### Blog Resource Files
+
+* @Frank Jiang
+* 2016/7/5
